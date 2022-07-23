@@ -126,16 +126,16 @@ a{
         border-bottom-right-radius: 2.5rem;
     }
 }
-// ---------------------- Se más section ------------------------------------
+// ---------------------- Animacion section ------------------------------------
 .index--contenedor-text{
     display: flex;
     justify-content: center;
     margin: 8vw 0;
     text-align: center;
-    .index--seMas__title{
+    .index--animacion__title{
         font-size: 9vw;
     }
-    .animacion--mas{
+    .animacion--animacion{
         font-size: 9vw;
         font-weight: bold;
         color: $naranja;
@@ -422,7 +422,7 @@ footer{
         .index--seMas__title{
             font-size: 3vw;
         }
-        .animacion--mas{
+        .animacion--animacion{
             font-size: 3vw;
             font-weight: bold;
             color: $naranja;
