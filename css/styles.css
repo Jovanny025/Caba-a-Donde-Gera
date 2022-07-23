@@ -14,3 +14,7 @@ body {
 #colorWhat:hover{
     background:#00bb2d
 }
+
+.center{
+    align-content:center ;
+}
