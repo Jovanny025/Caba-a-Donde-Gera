@@ -3,4 +3,14 @@ body {
     background: -webkit-linear-gradient(to right, #004e92, #000428);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #004e92, #000428); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     }
+#colorface:hover{
+    background:#3b5998
+}
 
+#colorIns:hover{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSdBLVsBii4mIG5c_E8sSqc0TnkLlFquwaQ&usqp=CAU);
+}
+
+#colorWhat:hover{
+    background:#00bb2d
+}
