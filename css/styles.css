@@ -14,7 +14,10 @@ body {
 #colorWhat:hover{
     background:#00bb2d
 }
-
-.center{
-    align-content:center ;
+.card-title{
+    color: #00bb2d
 }
+.card-title1{
+    text-align: center;
+}
+ 
