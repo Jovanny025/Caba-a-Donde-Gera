@@ -1,5 +1,5 @@
 .naranja {
-  color: #8df32d; }
+  color: white; }
 
 body {
   background-color: #f2f2f2;
@@ -63,7 +63,7 @@ a {
       color: #212429;
       font-weight: bold; }
     .menu-navegacion ul li a:hover {
-      color: #8df32d; }
+      color: white; }
   .menu-navegacion .navbar--logo__center {
     display: flex;
     justify-content: center;
@@ -111,7 +111,7 @@ a {
   .index--contenedor-text .animacion--mas {
     font-size: 9vw;
     font-weight: bold;
-    color: #8df32d; }
+    color: white; }
   .index--contenedor-text .typed-cursor {
     font-size: 6vh; }
     .index--contenedor-text .phone-cursor {
@@ -347,7 +347,7 @@ footer {
     .index--contenedor-text .animacion--mas {
       font-size: 3vw;
       font-weight: bold;
-      color: #8df32d; }
+      color: white; }
     .index--contenedor-text .typed-cursor {
       font-size: 7vh; }
       .index--contenedor-text .phone-cursor {
