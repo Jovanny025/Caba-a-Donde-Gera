@@ -36,10 +36,35 @@ body {
 }
 .card-text1{
     text-align: center;
+    font-size: 20px;
 }
 
 .card-footer a{
     height: 100%;
     margin:auto;
     display:block;
+    
+}
+.card-text{
+    font-size: 20px;
+}
+.m-0 {
+    font-size: 20px;
+}
+.navbar-nav:{
+    font-size: 20px;
+    
+}
+.nav-item:hover{
+    background-color: #142a8b;
+}
+.planes{
+    font-size:20px;
+}
+.text-white1{
+    font-size: 20px;
+    color:white;
+}
+.text-black{
+    font-size: 20px;
 }
