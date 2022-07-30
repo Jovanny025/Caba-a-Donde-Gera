@@ -51,14 +51,16 @@ body {
 .m-0 {
     font-size: 20px;
 }
-.navbar-nav:{
+.navbar-nav{
     font-size: 20px;
     
 }
 .nav-item:hover{
     background-color: #5470ec;
     border-radius: 4px;
+    
 }
+
 .planes{
     font-size:20px;
 }
