@@ -1,4 +1,6 @@
 body {
+    
+    padding: 170px 20px 0;
     background: #000428;
     /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #004e92, #000428);
@@ -205,3 +207,20 @@ body {
         width: 100%;
     }
 }
+.encabezado{
+    width: 100%;
+    top: 0;
+    left: 0px;
+   position: fixed;
+   height: 0px;
+}
+.card1{
+    border-radius: 4px;
+}
+.card2{
+   
+    background-color:white;
+    border-radius: 4px;
+
+}
+
